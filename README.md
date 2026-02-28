@@ -67,7 +67,6 @@ Timer (Live Clock)
 BackdropFilter (Glassmorphism)
 
 🏗 Architecture
-
 Simple Flutter Architecture:
 
 UI (Screens)
@@ -75,31 +74,22 @@ UI (Screens)
 HTTP Service
 ↓
 REST API
-
 Single-file implementation inside main.dart.
 
 🌐 APIs Used
 1️⃣ REST Countries API
 
 Used for:
-
 Country name
-
 Flag
-
 Population
-
 Region
-
 Timezone
-
 API:https://restcountries.com/v3.1/all
 2️⃣ Wikipedia REST API
 
 Used for:
-
 Country historical summary
-
 API:https://en.wikipedia.org/api/rest_v1/page/summary/{country}
 
 ✨ Features
@@ -187,13 +177,13 @@ Multi-API integration
 Professional UI design
 
 OUTPUT :-
-1)<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/c163c7ae-2e2d-4d6a-9f69-1d80f38bb871" />
-2)<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/e1617846-0f37-46c0-8614-57bd13086ba9" />
-3)<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/9750bb41-b221-4cd1-bed9-1b71b4b1a54f" />
-4)<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/3ac1ccb7-6d5d-4647-b336-b1ab5273aceb" />
-5)<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/647101dd-445d-40be-aca1-5a14b9de2a45" />
-6)<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/bfa27a4a-3bad-4b77-8585-783528e876a6" />
-7)<img width="540" height="1206" alt="image" src="https://github.com/user-attachments/assets/bb4b9b63-f9a1-480b-933c-88a7c7205c22" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c163c7ae-2e2d-4d6a-9f69-1d80f38bb871" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e1617846-0f37-46c0-8614-57bd13086ba9" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9750bb41-b221-4cd1-bed9-1b71b4b1a54f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3ac1ccb7-6d5d-4647-b336-b1ab5273aceb" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/647101dd-445d-40be-aca1-5a14b9de2a45" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bfa27a4a-3bad-4b77-8585-783528e876a6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4b9b63-f9a1-480b-933c-88a7c7205c22" />
 
 
 
