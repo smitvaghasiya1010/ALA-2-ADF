@@ -177,13 +177,13 @@ Multi-API integration
 Professional UI design
 
 OUTPUT :-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c163c7ae-2e2d-4d6a-9f69-1d80f38bb871" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e1617846-0f37-46c0-8614-57bd13086ba9" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9750bb41-b221-4cd1-bed9-1b71b4b1a54f" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3ac1ccb7-6d5d-4647-b336-b1ab5273aceb" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/647101dd-445d-40be-aca1-5a14b9de2a45" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bfa27a4a-3bad-4b77-8585-783528e876a6" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bb4b9b63-f9a1-480b-933c-88a7c7205c22" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/c163c7ae-2e2d-4d6a-9f69-1d80f38bb871" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/e1617846-0f37-46c0-8614-57bd13086ba9" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/9750bb41-b221-4cd1-bed9-1b71b4b1a54f" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/3ac1ccb7-6d5d-4647-b336-b1ab5273aceb" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/647101dd-445d-40be-aca1-5a14b9de2a45" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/bfa27a4a-3bad-4b77-8585-783528e876a6" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/bb4b9b63-f9a1-480b-933c-88a7c7205c22" />
 
 
 
